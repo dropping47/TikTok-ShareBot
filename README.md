@@ -1,17 +1,10 @@
 <div id="top"></div>
-<p align="center">
-  <img src="https://img.shields.io/github/contributors/dropout1337/TikTok-Share-Bot.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/dropout1337/TikTok-Share-Bot.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/dropout1337/TikTok-Share-Bot.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/dropout1337/TikTok-Share-Bot.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/dropout1337/TikTok-Share-Bot.svg?style=for-the-badge"/>
-</p>
   
 ---------------------------------------
   
 <br/>
 <div align="center">
-  <a href="https://github.com/dropout1337/TikTok-Share-Bot">
+  <a href="https://github.com/dropping47/TikTok-ShareBot">
     <img src="https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-common-sg/mtact/static/images/logo_144c91a.png" alt="Logo" width="120" height="120">
   </a>
   
