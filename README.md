@@ -30,7 +30,6 @@
 
 ---
 
-![Preview](https://i.imgur.com/Tjb0Z6v.png)
 
 ---
 
